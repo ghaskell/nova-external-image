@@ -1,5 +1,5 @@
 {
-  "name": "chaseconey/nova-external-image",
+  "name": "ghaskell/nova-external-image",
   "description": "A Laravel Nova field.",
   "keywords": [
     "laravel",
@@ -11,13 +11,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Chaseconey\\ExternalImage\\": "src/"
+      "Whiskr\\ExternalImage\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Chaseconey\\ExternalImage\\FieldServiceProvider"
+        "Whiskr\\ExternalImage\\FieldServiceProvider"
       ]
     }
   },
