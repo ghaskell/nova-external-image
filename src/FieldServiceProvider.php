@@ -1,6 +1,6 @@
 <?php
 
-namespace Chaseconey\ExternalImage;
+namespace Ghaskell\ExternalImage;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
